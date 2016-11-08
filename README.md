@@ -7,5 +7,6 @@ Repository with code developed during the Machine Learning course held at
 Teachers:
 
 -- Dr. Mahdieh Khalilinezhad
+
 -- Dr. Razer
 
